@@ -1,0 +1,9 @@
+zhihu-clone/
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── store/
+│   ├── navigation/
+│   └── utils/
+├── App.js
+└── package.json 
