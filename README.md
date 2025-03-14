@@ -49,7 +49,16 @@ npm run web //运行到web端
 密码：password
 ```
 
-## 三 项目预览
+## 三 开发中出现的问题及解决办法
+
+### 3.1 expo SDK升级
+
+```
+npx expo install expo@latest
+npx expo install --fix
+```
+
+## 四 项目预览
 
 ### v1
 
